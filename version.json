@@ -1,0 +1,14 @@
+{
+  "stable": {
+    "version": "1.0.1",
+    "release_date": "2026-06-15",
+    "changelog": "• Correções visuais na barra lateral;\n• Novo sistema de atualização automática in-place;\n• Ícone do botão principal START aprimorado.",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1/update.zip"
+  },
+  "beta": {
+    "version": "1.1.0-beta1",
+    "release_date": "2026-06-15",
+    "changelog": "• Recursos experimentais e testes iniciais do atualizador em canal Beta.",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.1.0-beta1/update-beta.zip"
+  }
+}
