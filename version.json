@@ -2,7 +2,7 @@
   "stable": {
     "version": "1.0.0.5",
     "release_date": "2026-06-15",
-    "changelog": "- teste de script de build/release",
+    "changelog": "- Teste de build/release/update.",
     "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.0.5/update.zip"
   },
   "beta": {
