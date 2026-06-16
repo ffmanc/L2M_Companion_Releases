@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.0.1.8",
+    "version": "1.0.1.9",
     "release_date": "2026-06-16",
-    "changelog": "- Verificacao obrigatoria de atualizacao no startup\n- Checagem horaria\n- Remocao da barra de progresso redundante no status bar. Fix crash na inicializacao (sb_progress).",
-    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.8/update.zip"
+    "changelog": "- UI adjustments\n- Bug fixes\n- Hotkeys module implementation\n- Recognition engine improvements\n- Fixes in the auto-update module\n- Addition of languages: German, French, Russian, Polish, Korean",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.9/update.zip"
   },
   "beta": {
     "version": "1.1.0-beta1",
