@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "release_date": "2026-06-16",
-    "changelog": "- Manifesto de UAC para execucao obrigatoria como Administrador\n- Ajuste no atualizador para manter privilegios de admin ao reiniciar o app\n- Mensagem de confirmacao interativa simplificada",
-    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.0/update.zip"
+    "changelog": "- Adicionado Termo de Licenca (licenca.rtf) obrigatorio no instalador\n- Correcao de erro de execucao pos-instalacao (Erro 740)\n- Melhoria no tratamento visual da barra de status ao checar atualizacoes",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.1/update.zip"
   },
   "beta": {
     "version": "1.1.0-beta1",
