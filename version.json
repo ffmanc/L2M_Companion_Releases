@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.0.0.9",
+    "version": "1.0.1.0",
     "release_date": "2026-06-16",
-    "changelog": "- Correcao definitiva de DLLs do SSL\n- Novo badge pulsante com alerta visual de atualizacao na barra de status",
-    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.0.9/update.zip"
+    "changelog": "- Manifesto de UAC para execucao obrigatoria como Administrador\n- Ajuste no atualizador para manter privilegios de admin ao reiniciar o app\n- Mensagem de confirmacao interativa simplificada",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.0/update.zip"
   },
   "beta": {
     "version": "1.1.0-beta1",
