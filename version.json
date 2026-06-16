@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.0.1.5",
+    "version": "1.0.1.6",
     "release_date": "2026-06-16",
-    "changelog": "- Release 1.0.1.5",
-    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.5/update.zip"
+    "changelog": "- Correcao de travamentos no sistema de atualizacao\n- Encerramento limpo via OS exit\n- Taskkill expandido para processos zumbis",
+    "url": "https://github.com/FFMANC/L2M_Companion_Releases/releases/download/v1.0.1.6/update.zip"
   },
   "beta": {
     "version": "1.1.0-beta1",
